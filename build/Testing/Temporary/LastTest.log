@@ -1,0 +1,29 @@
+Start testing: Dec 28 20:46 �й���׼ʱ��
+----------------------------------------------------------
+1/1 Testing: unittest_add
+1/1 Test: unittest_add
+Command: "C:/Code/googletest_tutorial/build/unittest_add.exe"
+Directory: C:/Code/googletest_tutorial/build
+"unittest_add" start time: Dec 28 20:46 �й���׼ʱ��
+Output:
+----------------------------------------------------------
+Running main() from C:\Code\googletest_tutorial\gtest\googletest\src\gtest_main.cc
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AdditionTest
+[ RUN      ] AdditionTest.PositiveNumbers
+[       OK ] AdditionTest.PositiveNumbers (0 ms)
+[----------] 1 test from AdditionTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"unittest_add" end time: Dec 28 20:46 �й���׼ʱ��
+"unittest_add" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Dec 28 20:46 �й���׼ʱ��
